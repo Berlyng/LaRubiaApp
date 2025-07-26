@@ -56,7 +56,7 @@ if ($_POST) {
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header text-center">
-                        <h3>Sistema de Tareas</h3>
+                        <h3>Sistema de Ventas</h3>
                     </div>
                     <div class="card-body">
                         <?php if($error): ?>
